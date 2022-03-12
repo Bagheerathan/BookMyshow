@@ -16,7 +16,7 @@ const HeroCarousal = () => {
         slidesToScroll: 1
     };
 
-    const images = ["https://cdn.britannica.com/15/136615-050-52769A00/Teatro-Farnese-Parma-Italy.jpg", "https://cdn.britannica.com/28/99528-050-BE26CC00/Teatro-alla-Scala.jpg", "https://cdn.britannica.com/96/121396-050-7E197540/Teatro-Olimpico-Vicenza-Italy-Andrea-Palladio-Vincenzo-1585.jpg", "https://cdn.britannica.com/71/189871-050-B3525558/theatre-Greek-times-Roman-Taormina-Italy-Sicily.jpg"]
+    const images = ["https://cdn.britannica.com/15/136615-050-52769A00/Teatro-Farnese-Parma-Italy.jpg", "https://cdn.britannica.com/28/99528-050-BE26CC00/Teatro-alla-Scala.jpg", "https://cdn.britannica.com/96/121396-050-7E197540/Teatro-Olimpico-Vicenza-Italy-Andrea-Palladio-Vincenzo-1585.jpg", "https://cdn.britannica.com/71/189871-050-B3525558/theatre-Greek-times-Roman-Taormina-Italy-Sicily.jpg"];
 
     return (
         <>
