@@ -4,7 +4,7 @@ const Poster = (props) => {
     return(
         <>
         <div>
-            <div className="h-80">
+            <div className="h-80 px-4">
                 <img src={props.src} className="w-full h-full rounded-xl"/>
             </div>
 
